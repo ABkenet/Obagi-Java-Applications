@@ -1,4 +1,4 @@
-public class PrintMethod{
+-Apublic class PrintMethod{
     public static void main(String[] args){
 	    //using the print{}
 		System.out.print("\"Learning Java is Fun\"\n");
